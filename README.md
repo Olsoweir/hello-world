@@ -1,4 +1,3 @@
-hello-world
-===========
+Hello World!
 
-This is the first repository Olsoweir ever made.
+This is absolutely crazy shit. Hopefully this doesn't get any more crazy or I'll go... crazy.
